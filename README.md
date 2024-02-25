@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Humberto</h1>
 <h3 align="center">Soy un entusiasta de la tecnología y de lo que podemos hacer con ella, me agrada poder aprender de código todos los días.</h3>
 
-- 🔭 I’m currently working on **Guardián**
+- 🔭 I’m currently working on **Guardián**.
 
-- 🌱 I’m currently learning **Python, Java**
+- 🌱 I’m currently learning **Python, Java**.
 
 - 📝 I regularly write articles on [humbertobalvin.com/blog/](humbertobalvin.com/blog/)
 
